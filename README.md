@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hawks2500.github.io/resume">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1200&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=600&lines=Yanis+Zerrar" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1200&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=600&lines=Yanis" alt="Typing SVG" />
     </a>
 </p>
 
@@ -27,7 +27,7 @@ I’m particularly interested in:
 ## <font color="#FFD700">**Languages and tools**</font>
 
 ### **Core stack**
-![Core](https://skillicons.dev/icons?i=ts,react,nodejs,php,python,linux,git&perline=6)
+![Core](https://skillicons.dev/icons?i=ts,react,nodejs,php,python,html,css,js,linux,git&perline=6)
 
 ### **Also working with**
 ![Other](https://skillicons.dev/icons?i=postgres,mysql,elasticsearch,laravel,gcp&perline=6)
